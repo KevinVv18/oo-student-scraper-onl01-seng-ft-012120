@@ -30,5 +30,5 @@ class Student
   def self.all
     @@all
   end
-en
+end
 
